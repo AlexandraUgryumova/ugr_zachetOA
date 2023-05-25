@@ -1,0 +1,10 @@
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\obj\Debug\UgryumovaOA_zachet.csproj.AssemblyReference.cache
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\obj\Debug\UgryumovaOA_zachet.Form1.resources
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\obj\Debug\UgryumovaOA_zachet.Properties.Resources.resources
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\obj\Debug\UgryumovaOA_zachet.csproj.GenerateResource.cache
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\obj\Debug\UgryumovaOA_zachet.csproj.CoreCompileInputs.cache
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\bin\Debug\UgryumovaOA_zachet.exe.config
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\bin\Debug\UgryumovaOA_zachet.exe
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\bin\Debug\UgryumovaOA_zachet.pdb
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\obj\Debug\UgryumovaOA_zachet.exe
+C:\Users\305-2\Desktop\pr-21 ugr\UgryumovaOA_zachet\obj\Debug\UgryumovaOA_zachet.pdb
